@@ -548,3 +548,4 @@ Thanks to the cybersecurity community, CTF platform creators, and all the amazin
 ---
 
 *Last Updated: December 2025*
+# My CTF Writeups
